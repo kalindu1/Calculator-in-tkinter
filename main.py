@@ -11,6 +11,7 @@ root = Tk()
 root.geometry("180x240")
 root.title("Calculator")
 root.config(bg="gray")
+root.resizable(False, False)
 
 Main_Frame = Frame(root, bg="gray")
 Main_Frame.pack(padx=3)
