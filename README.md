@@ -6,4 +6,6 @@
 
 for example:
 		20+9-1
-		
+
+<h6>sample pic</h6>
+<img src="pics\example.PNG", alt="calculator.png">	
